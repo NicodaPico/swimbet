@@ -38,7 +38,7 @@
 
   checkForUpdate();
 
-  const validKeys = ["DEVTESTING16", 'MOON-EJUWYTAGVWKIEO9816BEGHWNUSK', "MOON-HHFXVCGLAAZFJTGTDFKLYTEZRMODANZWYHDTOAIW"];
+  const validKeys = ["DEVTESTING17", 'MOON-EJUWYTAGVWKIEO9816BEGHWNUSK', "MOON-HHFXVCGLAAZFJTGTDFKLYTEZRMODANZWYHDTOAIW"];
   const styleElement = document.createElement("style");
   styleElement.textContent = `
         body { font-family: Arial, sans-serif; }
